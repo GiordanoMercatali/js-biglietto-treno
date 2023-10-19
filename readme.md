@@ -1,4 +1,4 @@
-### Exercise
+# Exercise
 
 The program will ask user how many Kilometers they want to travel and their age.
 Based on the given info, the program will then calculate the cost of the ticket, following these rules:
@@ -9,18 +9,18 @@ Based on the given info, the program will then calculate the cost of the ticket,
 
 ## Solution
 
-# Info
+### Info
 
 1. Ask user how many Kilometers they want to travel;
 2. Ask them their age;
 3. Users may get a discount if they're above or below a determined age threshold;
 
-# Procedure
+### Procedure
 
 1. Calculate price based on Kilometers;
 2. Determine if the user is eligible for a discount;
 3. Apply a discount.
 
-# Output
+### Output
 
 Return the final price.
